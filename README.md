@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm exodus.</h1>
-<h3 align="center">A passionate IT-Security Enthusiast.</h3>
+<h3 align="center">A passionate cyber security enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-exodus&label=Profile%20views&color=0e75b6&style=flat" alt="git-exodus" /> </p>
 
 - 🔭 I’m currently working on **myself.**
-- 🌱 I’m currently learning **IT-Security**
+- 🌱 I’m currently learning **cyber security**
+
+Learning Pages
+- TryHackme
+- HackTheBox
+- pwn.college
 <p align="left">
 </p>
 
