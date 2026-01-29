@@ -1,17 +1,14 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=git-exodus&label=Profile%20views&color=0e75b6&style=flat" alt="git-exodus" /> </p>
 <h1 align="center">Hi 👋, I'm exodus.</h1>
 <h3 align="center">A passionate cyber security enthusiast.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-exodus&label=Profile%20views&color=0e75b6&style=flat" alt="git-exodus" /> </p>
 
 - 🔭 I’m currently working on **myself.**
 - 🌱 I’m currently learning **cyber security**
 
-Learning Pages
+My Learning Pages
 - TryHackme
 - HackTheBox
 - pwn.college
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -21,16 +18,15 @@ Learning Pages
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-🎓 Interactive Training & Hands-On Labs
+<h3 align="left">🎓 Interactive Training & Hands-On Labs</h3>
 
 - TryHackMe – Beginner-friendly cybersecurity and ethical hacking platform with free learning paths and interactive challenges.
 - Hack The Box (Free Tier) – Practice real penetration testing on vulnerable machines and CTF-style challenges.
 - OverTheWire – Classic wargames to learn Linux basics, shell, networking, and exploitation skills.
-
 - Root-Me – Lots of challenges in web, network, cryptography, and forensics.
 - PortSwigger Web Security Academy – Free, high-quality labs focusing on web application security (SQLi, XSS, etc.).
 
-📘 Free Courses & Tutorials
+<h3 align="left">📘 Free Courses & Tutorials</h3>
 
 - Cybrary – Free foundational cybersecurity and ethical hacking courses with virtual labs.
 - Cyberly – Free technology and cybersecurity tutorials with practical, clear explanations.
