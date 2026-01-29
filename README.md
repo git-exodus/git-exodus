@@ -3,7 +3,7 @@
 <h3 align="center">A passionate cyber security enthusiast.</h3>
 
 - 🔭 I’m currently working on **myself.**
-- 🌱 I’m currently learning **cyber security**
+- 🌱 I’m currently learning **cyber security.**
 
 My Learning Pages
 - TryHackme
