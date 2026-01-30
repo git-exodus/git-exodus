@@ -18,6 +18,11 @@ My Learning Pages
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
+## Ethical Considerations
+Remember that hacking into devices without permission is illegal and unethical.\
+Always ensure you have the necessary permissions and are conducting these activities in a\
+controlled environment for educational or security assessment purposes.
+
 <h3 align="left">🎓 Interactive Training & Hands-On Labs</h3>
 
 - TryHackMe – Beginner-friendly cybersecurity and ethical hacking platform with free learning paths and interactive challenges.
