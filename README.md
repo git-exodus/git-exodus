@@ -1,12 +1,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=git-exodus&label=Profile%20views&color=0e75b6&style=flat" alt="git-exodus" /> </p>
 <h1 align="center">Hi 👋, I'm exodus.</h1>
 <h3 align="center">A passionate cybersecurity enthusiast.</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/exodus..png" alt="Your Image Badge" />
 
 - 🔭 I’m currently working on **improving myself.**
 - 🌱 I’m currently learning on **pwn.college**, **TryHackMe** and **HackTheBox**.
 
 My Learning Pages
-- TryHackme [0x8][HACKER]-[Rooms completed: 48]-[Badges: 8]
+- TryHackme [0x8][HACKER]-[Rooms completed: 44]-[Badges: 8]
 - pwn.college [WhiteBelt]-[Challenges Solved: 97]
 - HackTheBox 
 
